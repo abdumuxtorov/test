@@ -1,0 +1,36 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    .cart {
+        display: flex;
+        justify-content: space-around;
+    }
+    .template {
+        height: 153px;
+        background: #e4e4e4;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .arrow__btn {
+       padding: 13px;
+       background: #4b4b4b;
+       border: 0px;
+      display: flex;
+      justify-content: center;
+      margin-top: 100px;
+      margin-left: 817px;
+    }
+    .arrow {
+        width: 10px;
+        height: 5px;
+    }
+    .download__btn {
+        margin-right: 7px;
+        margin-left: 650px;
+    }
+    .demo__btn {
+        margin-left: 81px;
+    }
